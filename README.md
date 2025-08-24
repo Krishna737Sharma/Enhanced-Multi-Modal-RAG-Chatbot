@@ -15,6 +15,8 @@ A fully modular, research-oriented chatbot framework that supports multi-modal d
 - [Contributing](#contributing)
 - [License](#license)
 
+<img width="1356" height="597" alt="Image" src="https://github.com/user-attachments/assets/46b6dc41-ae91-443e-b76e-ffc474fdf27b" />
+
 ## Features
 
 - **Multi-modal Input:** Supports PDF, DOCX, TXT, CSV, and image (PNG, JPG, JPEG) file ingestion.
