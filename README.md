@@ -82,7 +82,7 @@ enhanced-rag-chatbot/
 ### Steps
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Krishna737Sharma/Enhanced-Multi-Modal-RAG-Chatbot.git
 cd enhanced-rag-chatbot
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
