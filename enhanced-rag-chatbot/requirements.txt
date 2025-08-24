@@ -1,0 +1,38 @@
+# Core dependencies
+streamlit>=1.28.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-google-genai>=0.0.6
+langchain-huggingface>=0.0.1
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+chromadb>=0.4.15
+sentence-transformers>=2.2.2
+
+# Document processing
+pypdf>=3.17.0
+python-docx>=1.1.0
+pandas>=2.1.0
+openpyxl>=3.1.2
+unstructured>=0.11.0
+
+# Image processing and computer vision (headless version)
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0
+transformers>=4.35.0
+torch>=2.1.0
+torchvision>=0.16.0
+pytesseract>=0.3.10
+
+# Embeddings and ML
+numpy>=1.24.0
+scikit-learn>=1.3.0
+faiss-cpu>=1.7.4
+
+# Evaluation and monitoring
+plotly>=5.17.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+psutil>=5.9.0
